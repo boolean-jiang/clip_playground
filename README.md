@@ -1,4 +1,5 @@
-# Playground for CLIP-like models - updated to include GradCAM Visualization for CLIP versions with a Vision Transformer image encoder. 
+# Playground for CLIP-like models
+Updated to include GradCAM Visualization for CLIP versions with a Vision Transformer image encoder. 
 
 | Demo  | Colab Link |
 | ------------- | ------------- |
