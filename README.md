@@ -1,5 +1,7 @@
 # Playground for CLIP-like models
-Updated to include GradCAM Visualization for CLIP versions with a Vision Transformer image encoder. 
+## GradCAM implementations for Vision Transformer CLIP variants
+
+Original `clip_playground` repo now updated with new notebooks on GradCAM methods for ViT CLIP variants. 
 
 | Demo  | Colab Link |
 | ------------- | ------------- |
@@ -9,7 +11,22 @@ Updated to include GradCAM Visualization for CLIP versions with a Vision Transfo
 | Smarter Zero-shot Detection  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_Zero_shot_Detector.ipynb)  |
 | Captcha Solver  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_reCAPTCHA.ipynb) |
 
-If you find this playground useful, consider citing it:
+If you find this playground useful, consider citing it!
+
+**For ViT GradCAMs:**
+
+```bibtex
+@software{zakka2021clipplayground,
+    author = {Jiang, Bowen},
+    month = {12},
+    title = {{A Playground for CLIP-like Models - GradCAM implementations for Vision Transformer CLIP variants }},
+    url = {https://github.com/boolean-jiang/clip_playground},
+    version = {0.0.1},
+    year = {2022}
+}
+```
+
+**For everything else:**
 
 ```bibtex
 @software{zakka2021clipplayground,
