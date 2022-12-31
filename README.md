@@ -5,11 +5,11 @@ Original `clip_playground` repo now updated with new notebooks on GradCAM method
 
 | Demo  | Colab Link |
 | ------------- | ------------- |
-| GradCAM Visualization  |  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)  |
-| GradCAM Visualization (Hugging Face ViTs) |  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)  |
-| Naive Zero-shot Detection  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_Patch_Detection.ipynb)  |
-| Smarter Zero-shot Detection  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_Zero_shot_Detector.ipynb)  |
-| Captcha Solver  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kevinzakka/clip_playground/blob/main/CLIP_reCAPTCHA.ipynb) |
+| GradCAM Visualization  |  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boolean-jiang/clip_playground/blob/main/CLIP_GradCAM_Visualization.ipynb)  |
+| GradCAM Visualization (Hugging Face ViTs) |  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boolean-jiang/clip_playground/blob/main/CLIP_GradCAM_Visualization_ViT_HuggingFace.ipynb)  |
+| Naive Zero-shot Detection  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boolean-jiang/clip_playground/blob/main/CLIP_Patch_Detection.ipynb)  |
+| Smarter Zero-shot Detection  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boolean-jiang/clip_playground/blob/main/CLIP_Zero_shot_Detector.ipynb)  |
+| Captcha Solver  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boolean-jiang/clip_playground/blob/main/CLIP_reCAPTCHA.ipynb) |
 
 If you find this playground useful, consider citing it!
 
@@ -43,7 +43,7 @@ If you find this playground useful, consider citing it!
 
 ### 2022-12-30
 
-* Added a new notebook for GradCAM visualization with ViT variants of CLIP.
+* Added a new notebook for GradCAM visualization with ViT variants of CLIP (HuggingFace implementations).
 
 ### 2021-07-28
 
